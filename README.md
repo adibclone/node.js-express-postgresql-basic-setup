@@ -3,8 +3,8 @@
 Basic integration of NodeJS, Express and Postgresql API.
 
 # Database Info: 
-- Name: tutorial\
-- Schema: frost-schema\
+- Name: tutorial
+- Schema: frost-schema
 - Table name: tutorial
 - Columns:
 ```
